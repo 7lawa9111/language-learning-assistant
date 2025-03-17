@@ -6,6 +6,7 @@ import re
 
 
 from backend.chat import BedrockChat
+from backend.get_transcript import YouTubeTranscriptDownloader
 
 
 # Page config
